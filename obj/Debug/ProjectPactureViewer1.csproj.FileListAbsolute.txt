@@ -1,0 +1,10 @@
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\bin\Debug\ProjectPactureViewer1.exe.config
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\bin\Debug\ProjectPactureViewer1.exe
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\bin\Debug\ProjectPactureViewer1.pdb
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\obj\Debug\ProjectPactureViewer1.csprojAssemblyReference.cache
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\obj\Debug\ProjectPactureViewer1.Form1.resources
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\obj\Debug\ProjectPactureViewer1.Properties.Resources.resources
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\obj\Debug\ProjectPactureViewer1.csproj.GenerateResource.cache
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\obj\Debug\ProjectPactureViewer1.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\obj\Debug\ProjectPactureViewer1.exe
+C:\Users\Adnan\source\repos\ProjectPactureViewer1\obj\Debug\ProjectPactureViewer1.pdb
